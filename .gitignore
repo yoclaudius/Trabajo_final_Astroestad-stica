@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Specific intermediate files created by f2pỳ
+cflibformodule.c
+cflibfor-f2pywrappers2.f90
+
+# Benchs
+bench/
+
+# Files output by Gundam by default
+.pik
+.cnt
+.log
+.par
+.rppi
+.dd
+.rr
+.dr
+.wrp
+.xis
+.wth
+.cd
+.cr
+.pdf
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+Desarrollador/
+Cordoba_2022/galpro/
+Cordoba_2022/untitled1.py
+Cordoba_2022/untitled1.ipynb
+Cordoba_2022/salida.npy
+Cordoba_2022/Practica_bien_hecha.ipynb
+Cordoba_2022/firefly.fits
+Cordoba_2022/firefly_Claudio_1.csv
+Cordoba_2022/sdss_eboss_firefly-dr16.fits
+Cordoba_2022/sdss_firefly-26.fits
+Cordoba_2022/MPA.fits
